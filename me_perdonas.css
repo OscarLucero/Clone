@@ -45,12 +45,12 @@ section {
 body {
     max-width: 600px;
     margin: 0 auto;
-    background-image: url(/foto/luchi.jpg);
+    background-image: url(./foto/luchi.jpg);
     background-size: cover;
 }
 
 p {
     font-size: xx-large;
     justify-content: center;
-    color: rgb(0, 0, 0);
+    color: red;
 }
